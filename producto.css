@@ -1,0 +1,129 @@
+
+
+.container {
+    position: relative;
+    width: 103%;        
+    height: 750px;        
+    background-color: #ffffff; 
+    margin: 30px 0;     
+    left: -40px;
+    top: 50px;
+    z-index: 1;
+}
+
+body {
+    background-image: url('6912325.jpg');
+}
+
+.pro{
+    
+        position: absolute;
+        top: 30px;
+        font-size: 60px;
+        left: 550px;
+        top: 10px;
+        color: rgb(250, 250, 250);
+        text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.63); 
+
+    }
+
+    .Fo1{
+        position: absolute;
+        top:160px ;
+        z-index: 2;
+    }
+
+    .Fo2{
+        position: absolute;
+        top:160px ;
+        z-index: 2;
+        left: 250px;
+    }
+
+    .Fo3{
+        position: absolute;
+        top:160px ;
+        z-index: 2;
+        left: 470px;
+    }
+
+    .Fo4{
+        position: absolute;
+        top:149px ;
+        z-index: 2;
+        left: 680px;
+    }
+
+    .Fo5{
+        position: absolute;
+        top:151px ;
+        z-index: 2;
+        left: 890px;
+    }
+
+    .Fo6{
+        position: absolute;
+        top:151px ;
+        z-index: 2;
+        left: 1100px;
+    }
+
+    .Fo7{
+        position: absolute;
+        top:500px ;
+        z-index: 2;
+        left: 10px;
+    } 
+
+    .Fo8{
+        position: absolute;
+        top:500px ;
+        z-index: 2;
+        left: 240px;
+    } 
+
+    .Fo9{
+        position: absolute;
+        top:500px ;
+        z-index: 2;
+        left: 470px;
+    } 
+
+
+.Fo10{
+        position: absolute;
+        top:490px ;
+        z-index: 2;
+        left: 688px;
+    } 
+
+    .Fo11{
+        position: absolute;
+        top:490px ;
+        z-index: 2;
+        left: 888px;
+    }  
+    
+    .Fo12{
+        position: absolute;
+        top:490px ;
+        z-index: 2;
+        left: 1100px;
+    }  
+    
+    
+
+
+    
+    
+    
+    
+    .pie{
+        z-index: 2;
+    }
+
+   
+    
+    
+    
+     
