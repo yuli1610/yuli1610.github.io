@@ -1,0 +1,177 @@
+.iconE{
+    position: relative;
+    left: -300px;
+}
+
+
+.T1{
+    position: relative;
+    left: 120px;
+    top: -10px;
+    text-shadow: 2px 2px 5px rgb(253, 22, 22); 
+    border-radius: 3px;
+    font-size: 50px;
+}
+
+.io1{
+position: relative;
+font-size: 10px;
+}
+
+.use1 {
+    position: relative;
+    top: 55px;
+    left: 20px;
+    z-index: 10; /* asegúrate de que el índice sea superior a otros elementos */
+}
+
+.agre {
+    position: relative;
+    top: 120px;
+    left: -20px;
+    z-index: 10;
+}
+
+
+.pie{
+
+    z-index: 2;
+    left:-10px;
+
+}
+
+.logo{
+    position: absolute;
+    left: 30px;
+}
+
+
+.contenedor {
+    position: absolute; /* Coloca el contenedor en posición absoluta */
+    left: -5px;
+    width: 100.6%; 
+    margin: 20px auto; /* Centra el contenedor en la página */
+    padding: 45px;
+    background-color: #375375;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-family: 'Roboto', sans-serif;
+    top: -70px; /* Ajusta este valor para subirlo sin que desaparezca */
+    z-index: 1; /* Asegura que se muestre por encima de otros elementos */
+}
+
+
+.formulario{
+    position: relative;
+    top: -170px;
+}
+.area {
+    position: relative;
+    width: 80%; 
+    margin: 20px auto; /* Centra el contenedor en la página */
+    padding: 230px; /* Espaciado interno */
+    background-color: #e1e0e9da; /* Color de fondo */
+    border-radius: 10px; /* Bordes redondeados */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra sutil */
+    font-family: 'Roboto', sans-serif; /* Fuente */
+    top: 100px;
+}
+
+h1 {
+    position: relative;
+    font-family: 'Dancing Script', cursive; /* Fuente estilizada */
+    font-size: 3.3rem; /* Tamaño grande para destacar */
+    color: #ffffff; /* Rojo elegante */
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* Sombra ligera */
+    font-weight: 700; /* Negrita */
+    text-align: center; /* Centrado */
+    letter-spacing: 1px; /* Espaciado sutil */
+    top: 20px;
+    left: -350px;
+}
+
+.cepva{
+    font-size: 3rem; /* Ajusta el tamaño según lo que desees */
+    font-weight: bold; 
+}
+
+
+
+
+.titulo {
+    position: relative;
+    font-family: 'Dancing Script', cursive;
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom: 10px;
+    left: 10px;
+}
+
+.direccion {
+    text-align: center;
+    font-size: 1rem;
+    color: #555;
+    margin-bottom: 20px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.campo {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+label {
+    font-size: 0.9rem;
+    color: #333;
+}
+
+input {
+    padding: 10px;
+    border: none;
+    border-bottom: 2px solid #ccc; /* Solo la línea inferior */
+    border-radius: 0; /* Elimina el borde redondeado */
+    font-size: 0.9rem;
+    outline: none;
+    background-color: transparent; /* Fondo transparente */
+    box-shadow: none; /* Elimina cualquier sombra no deseada */
+    transition: border-bottom-color 0.3s ease; /* Transición suave para el cambio de color de la línea */
+}
+
+input:focus {
+    border-bottom-color: #007bff; /* Color de la línea cuando el input está enfocado */
+}
+
+
+
+
+.boton {
+    background-color: #d9534f;
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.boton:hover {
+    background-color: #c9302c;
+}
+
+
+.logocepva{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    z-index: 2;
+    left: 100px;
+    top: 60px;
+}
+
